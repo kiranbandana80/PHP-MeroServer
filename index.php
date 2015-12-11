@@ -59,7 +59,7 @@
               </p>
               <div class="entry">
                 <p>Click <a href="http://www.tcpiputils.com/traceroute/pi.hemshrestha.com.np" target="_blank">here</a> 
-                  to trace and find out our location of our server via <a href="http://tcpiputils.com/" target="_blank">TCPIPUTILS</a>.</p>
+                  to trace and find out our location of our server via <a href="http://tcpiputils.com/traceroute/pi.hemshrestha.com.np" target="_blank">TCPIPUTILS</a>.</p>
               </div>
               <p class="meta"><a href="/about.php" class="more">Read More</a> &nbsp;&nbsp; &nbsp;&raquo;&nbsp;&nbsp;</p>
             </div>

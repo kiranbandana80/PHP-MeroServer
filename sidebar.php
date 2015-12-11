@@ -7,6 +7,7 @@
         <li><a href="/about.php">About Server</a></li>
         <li><a href="/help.php">Manuals and Help</a></li>
         <li><a href="/contact.php">Contact Us</a></li>
+        <li><a href="http://www.hemshrestha.com.np" target="_blank">About Developer</a></li>
         <li><a href="http://zpanel.hemshrestha.com.np">Zpanel Login</a></li>
       </ul>
     </li>
