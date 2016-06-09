@@ -72,8 +72,8 @@
         <li><a href="http://www.jeevanthapa.com.np" target="_blank">56. jeevanthapa.com.np</a> </li>
         <li><a href="http://www.prabinkarki.com.np" target="_blank">57. prabinkarki.com.np</a> </li>
         <li><a href="http://www.ishwor-shrestha.com.np" target="_blank">58. ishwor-shrestha.com.np</a> </li>
-        <li><a href="http://www.siddharthashrestha.com.np" target="_blank">59. siddharthashrestha.com.np</a> </li>
-        <li><a href="http://www.aashishchapagain.com.np" target="_blank">60. aashishchapagain.com.np</a> </li>
+        <li><a href="http://www.siddharthashrestha.com.np" target="_blank">59. siddharthashrestha.com.np</a></li>
+        <li><a href="http://www.rijalroshan.com.np" target="_blank">60. rijalroshan.com.np</a> </li>
         <li><a href="http://www.dineshkatwal.com.np" target="_blank">61. dineshkatwal.com.np</a> </li>
         <li><a href="/contact.php">Next Yours</a></li>
       </ul>
