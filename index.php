@@ -13,6 +13,9 @@
   else if($sd == "ftp" || $sd == "files"){
     $loc = "http://zpanel.hemshrestha.com.np/?module=ajaxplorer&action=Login";
   }
+  else if($sd == "chat"){
+    $loc = "http://chat.hemshrestha.com.np:8000";
+  }
   if($loc != ""){
     header('Location: '.$loc);
     exit;

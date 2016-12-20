@@ -22,12 +22,36 @@
           <!-- start content -->
           <div id="content">
             <div class="post">
-              <h1 class="title">Got Stuckked !!! we are here to help you ...... </h1>
-              <p class="byline">follow the following steps </p>
+              <h1 class="title">Got Stuckked !!! we are here to help you </h1>
               <div class="entry">
                 <p><strong><img src="images/stukk.JPG" alt="" width="220" height="169" class="left" /></strong><a href="#"></a>Have you got the Domain Name already ???</p>
                 <p>If not  then why not go for free one <a href="http://register.mos.com.np/">click  here</a> </p>
-                <p>All you need is  copy of nepalese citizenship and application letter. If you are not nepalese citizen then you can try other free domain service provider or get the premium one and use our free hosting space facility. Cheers and enjoy with your own identity and brand name in the internet world. Further details will be provided in your email, <a href="getsp.php">get your space</a> now. </p>
+                <p>All you need is  copy of nepalese citizenship and application letter. If you are not nepalese citizen then you can try other free domain service provider 
+or get the premium one and use our free hosting space facility. Cheers and enjoy with your own identity and brand name in the internet world. 
+Further details will be provided in your email. </p>
+                <p>&nbsp; </p>
+              </div>
+            </div>
+            <div class="post">
+              <h1 class="title">Steps !!! procedures for domain registeration </h1>
+              <p class="byline">Get along with the following steps </p>
+              <div class="entry">
+<ul>
+                <li>First of all go to <a href="http://register.mos.com.np/" target="_blank">Domain Registeration</a> section of Mercantile Communications Pvt. Ltd.</li>
+                <li>Type on desired domain name and check for availability.</li>
+<li>You need a scancopy of <i>Citizenship</i> or a <i>Driving Liscense</i>.</li>
+<li>While choosing domain name, <b>Be Careful</b> you can only register the domain name which is exactly written in citizenship or liscense, that is no other name or other spellings rather than written in those documents.</li>
+<li>If the domain is available then just drag and drop the domain to the box located at right hand side and marked as Step 2.</li>
+<li>Then register your username in the box marked as Step 3. The username must be unique. It is recommended to use your email address as your username.</li>
+<li>Follow the instruction emailed.</li>
+<li>Login to the panel. Provide your personal details, scancopy of document with the given name in the instruction.</li>
+<li>And lastly you need is <b>NAMESERVER DETAILS</b>. Put the following Nameservers.</li>
+<ol>
+<li>Primary NameServer : NS1.AFRAID.ORG</li>
+<li>Secondary NameServer : NS2.AFRAID.ORG</li>
+<li>Tertiary NameServer : NS3.AFRAID.ORG</li>
+</ol>
+</ul>
                 <p>&nbsp; </p>
               </div>
             </div>
