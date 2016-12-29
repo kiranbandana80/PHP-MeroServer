@@ -41,9 +41,6 @@ src="//pagead2.googlesyndication.com/pagead/show_ads.js">
   else if(subDomain == "db"){
     window.location.href = "http://zpanel.hemshrestha.com.np/etc/apps/phpmyadmin";
   }
-  else if(subDomain == "ftp"){
-    window.location.href = "http://zpanel.hemshrestha.com.np/?module=ajaxplorer&action=Login";
-  }
   else if(subDomain == "files"){
     window.location.href = "http://zpanel.hemshrestha.com.np/?module=ajaxplorer&action=Login";
   }

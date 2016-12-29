@@ -10,7 +10,7 @@
   else if($sd == "db"){
     $loc = "http://zpanel.hemshrestha.com.np/etc/apps/phpmyadmin";
   }
-  else if($sd == "ftp" || $sd == "files"){
+  else if($sd == "files"){
     $loc = "http://zpanel.hemshrestha.com.np/?module=ajaxplorer&action=Login";
   }
   else if($sd == "chat"){
