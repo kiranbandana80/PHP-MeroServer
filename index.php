@@ -28,7 +28,15 @@
     <link href="style.css" rel="stylesheet" type="text/css" media="screen" />
   </head>
   <body>
-    
+    <!-- 
+    _    _
+   | |  | |
+   | |__| | ___  _ __ ___
+   |  __  |/ _ \| '_ ' _  \
+   | |  | |  __/| | | | | |
+   |_|  |_|\___||_| |_| |_|
+
+    -->
     <!-- start header -->
     <?php include('header.php');?>
     <!-- end header -->
