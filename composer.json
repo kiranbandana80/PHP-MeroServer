@@ -1,0 +1,12 @@
+{
+    "name": "hereshem/meroserver",
+    "description": "Meroserver is a Pi server hosted in pi.hemshrestha.com.np",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Hem Shrestha",
+            "email": "hereshem@gmail.com"
+        }
+    ],
+    "require": {}
+}
