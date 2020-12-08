@@ -24,7 +24,7 @@
 <html>
   <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8" />
-    <title>Host your site for free</title>
+    <title>Host your site</title>
     <meta name="keywords" content="webhosting, free space, raspberry pi, pihosting, raspberry hosting server, free hosting server in nepal" />
     <meta name="description" content="MeroServer is a web hosting service provider in Nepal with Raspberry Pi as Hosting Server. We are here proud to offer the free webhosting service with individual zpanel dashboard and guarantee the customer satisfaction. Any feedback regarding the improvement to our service will be highly appreciated." />
     <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
