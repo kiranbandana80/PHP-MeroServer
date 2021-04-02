@@ -1,6 +1,6 @@
 # Meroserver Home Page
 
-This repo is the content of site http://github.hem.info.np
+This repo is the content of site https://github.hem.info.np
 
-Also check http://www.hemshrestha.com.np
-and http://pi.hemshrestha.com.np
+Also check https://www.hemshrestha.com.np
+and https://pi.hemshrestha.com.np
